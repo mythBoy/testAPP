@@ -1,0 +1,42 @@
+[
+  {
+    "title" : "邮箱",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/2813\/jrt-data\/{}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v352json\/img\/oa_yx.png"
+  },
+  {
+    "title" : "个人事务",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/2825\/jrt-data\/{\"fid\":\"2\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v354json\/img\/oa_sy_grsw.png"
+  },
+  {
+    "title" : "OA网盘",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/122\/jrt-data\/{\"merchantId\":\"2\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v352json\/img\/wp.png"
+  },
+  {
+    "title" : "通讯录",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/2801\/jrt-data\/{\"id\":\"2\",\"type\":\"1\",\"name\":\"\",\"organ_name\":\"部门架构\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v352json\/img\/oa_tx1.png"
+  },
+  {
+    "title" : "考勤",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/2822\/jrt-data\/{\"fid\":\"2\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v354json\/img\/oa_sy_kq.png"
+  },
+  {
+    "title" : "OA红包",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/1016\/jrt-data\/{\"fid\":\"2\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v354json\/img\/hb.png"
+  },
+  {
+    "title" : "公司制度",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/2802\/jrt-data\/{\"fid\":\"2\",\"type\":\"1\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v354json\/img\/oa_sy_gszd.png"
+  },
+  {
+    "title" : "关于公司",
+    "href" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/1243\/jrt-data\/{\"web_url\":\"http:\/\/admin.jrtoo.com\/html5\/about_company\/index.php?merchantid=2\",\"type\":\"2\",\"navtype\":\"2\"}",
+    "src" : "http:\/\/admin.jrtoo.com\/html5\/oa_home_v354json\/img\/oa_gygs.png"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "parameter" : {
+
+    },
+    "logEvent" : "",
+    "title" : "期货",
+    "image" : "uiw_qh_icon",
+    "tag" : "14",
+    "eventLabel" : "点击期货",
+    "vc" : "NewFuturesViewController",
+    "YYJumpProtocol" : "2101"
+  },
+  {
+    "parameter" : {
+
+    },
+    "logEvent" : "",
+    "title" : "移动通信",
+    "image" : "uiw_ydgw_icon",
+    "tag" : "24",
+    "eventLabel" : "点击移动通信",
+    "vc" : "ZQMobileBusinessHallViewController",
+    "YYJumpProtocol" : "1231"
+  },
+  {
+    "parameter" : {
+      "type" : "0"
+    },
+    "logEvent" : "",
+    "title" : "直播",
+    "image" : "uiw_dszb_icon",
+    "tag" : "4",
+    "eventLabel" : "点击直播",
+    "vc" : "LiveTelecastRootViewController",
+    "YYJumpProtocol" : "3101"
+  },
+  {
+    "parameter" : {
+
+    },
+    "logEvent" : "",
+    "title" : "财经资讯",
+    "image" : "uiw_cjzx_icon",
+    "tag" : "8",
+    "eventLabel" : "点击财经资讯",
+    "vc" : "YYHongCFTVDetailsWebViewController",
+    "YYJumpProtocol" : "501"
+  },
+  {
+    "parameter" : {
+
+    },
+    "logEvent" : "",
+    "title" : "会议",
+    "image" : "uiw_hy_icon",
+    "tag" : "1",
+    "eventLabel" : "点击会议",
+    "vc" : "YJYHuiYiRootCtrl",
+    "YYJumpProtocol" : "2113"
+  },
+  {
+    "parameter" : {
+
+    },
+    "logEvent" : "xx001",
+    "title" : "商学院",
+    "image" : "HomeTraing",
+    "tag" : "2",
+    "eventLabel" : "个人中心商学院入口",
+    "vc" : "NewSchoolOfBusinessRootCtrl",
+    "YYJumpProtocol" : "2115"
+  },
+  {
+    "parameter" : {
+
+    },
+    "logEvent" : "",
+    "title" : "现金宝",
+    "image" : "uiw_xjb_icon",
+    "tag" : "3",
+    "eventLabel" : "点击现金宝",
+    "vc" : "FundYuEBabyViewController",
+    "YYJumpProtocol" : "2103"
+  }
+]

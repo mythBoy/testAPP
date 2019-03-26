@@ -1,0 +1,138 @@
+{
+  "39655" : {
+    "latestWeeklyYield" : "0.0600",
+    "manager_list" : "贾志敏\/沈潼\/李倩",
+    "threeMonthRate" : "0.0000",
+    "code" : "000847",
+    "weeklyRate" : "0.0000",
+    "dailyRate" : "0.0000",
+    "merchant_id" : 913329276,
+    "unitNV" : "1.0000",
+    "name" : "中融货币A",
+    "oneMonthRate" : "0.0000",
+    "endDate" : "2017-12-27",
+    "type" : "货币型",
+    "sixMonthRate" : "0.0000",
+    "ismarketchoice" : false,
+    "advisor_code" : "183940",
+    "packurl" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/1243\/jrt-data\/{\"web_url\":\"http:\/\/admin.jrtoo.com\/html5\/FundMechant7922\/index.php?userid=25026405&advisor_code=183940&merchant_id=913329276\"}",
+    "totalNV" : "1.0000",
+    "twoYearRate" : "0.0000",
+    "historyNV" : [
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0600",
+        "endDate" : "2017-12-27",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.1359"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0598",
+        "endDate" : "2017-12-26",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.8816"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0592",
+        "endDate" : "2017-12-25",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.9846"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0544",
+        "endDate" : "2017-12-24",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "2.1688"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0539",
+        "endDate" : "2017-12-22",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "2.9011"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0445",
+        "endDate" : "2017-12-21",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.0957"
+      }
+    ],
+    "dailyProfit" : "1.1359",
+    "investadvisorname" : "中融基金管理有限公司"
+  },
+  "4332" : {
+    "latestWeeklyYield" : "0.0392",
+    "manager_list" : "曾刚\/胡伟\/李友超",
+    "threeMonthRate" : "0.0000",
+    "code" : "410002",
+    "weeklyRate" : "0.0000",
+    "dailyRate" : "0.0000",
+    "merchant_id" : 913329316,
+    "unitNV" : "1.0000",
+    "name" : "华富货币A",
+    "oneMonthRate" : "0.0000",
+    "endDate" : "2017-12-22",
+    "type" : "货币型",
+    "sixMonthRate" : "0.0000",
+    "ismarketchoice" : false,
+    "advisor_code" : "42403",
+    "packurl" : "http:\/\/admin.jrtoo.com\/control\/jrt-data\/jrtoo\/jrt-data\/1243\/jrt-data\/{\"web_url\":\"http:\/\/admin.jrtoo.com\/html5\/FundMechant7922\/index.php?userid=25026405&advisor_code=42403&merchant_id=913329316\"}",
+    "totalNV" : "1.0000",
+    "twoYearRate" : "0.0000",
+    "historyNV" : [
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0392",
+        "endDate" : "2017-12-22",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.0591"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0393",
+        "endDate" : "2017-12-21",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.0682"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0393",
+        "endDate" : "2017-12-20",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.0984"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0392",
+        "endDate" : "2017-12-19",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.0811"
+      },
+      {
+        "unitNV" : "1.0000",
+        "latestWeeklyYield" : "0.0391",
+        "endDate" : "2017-12-18",
+        "totalNV" : "1.0000",
+        "dailyRate" : "0.0000",
+        "dailyProfit" : "1.0783"
+      }
+    ],
+    "dailyProfit" : "1.0591",
+    "investadvisorname" : "华富基金管理有限公司"
+  }
+}

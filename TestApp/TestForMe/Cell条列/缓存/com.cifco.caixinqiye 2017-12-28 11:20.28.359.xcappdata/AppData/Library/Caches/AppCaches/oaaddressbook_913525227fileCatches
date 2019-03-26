@@ -1,0 +1,101 @@
+[
+  {
+    "avatar" : "Uploads\/2017\/10\/27\/59f2f164d7841.jpeg",
+    "position" : "",
+    "nick" : "菲菲",
+    "id" : 25029932,
+    "phone" : "18643427765",
+    "remark" : "",
+    "type" : 2,
+    "name" : "高飞宇",
+    "im_login" : "381aa5d9ff4fa638473a18740f40de85c5945c7c"
+  },
+  {
+    "avatar" : "Uploads\/2015\/06\/25\/558b553546b7d.jpeg",
+    "position" : "",
+    "nick" : "李坡",
+    "id" : 25015345,
+    "phone" : "15901356483",
+    "remark" : "",
+    "type" : 2,
+    "name" : "李坡",
+    "im_login" : "4c2dfbf7ba90bc5603a26c6f7bb2e8e3658be50a"
+  },
+  {
+    "avatar" : "Uploads\/2015\/06\/16\/557f94461157b.jpeg",
+    "position" : "",
+    "nick" : "李佐鹏",
+    "id" : 25002521,
+    "phone" : "15311936825",
+    "remark" : "",
+    "type" : 2,
+    "name" : "李佐鹏",
+    "im_login" : "136c9308346ad3d9f7a7de6ce5cb48c0fac21119"
+  },
+  {
+    "avatar" : "Uploads\/2017\/01\/13\/58787010e5346.jpeg",
+    "position" : "",
+    "nick" : "奔跑的大哥哥",
+    "id" : 25013767,
+    "phone" : "18810275364",
+    "remark" : "",
+    "type" : 2,
+    "name" : "王叶",
+    "im_login" : "c752894452842ab8eb63b81d00f0393811082127"
+  },
+  {
+    "avatar" : "Uploads\/2017\/02\/21\/58abdb4f84904.jpg",
+    "position" : "",
+    "nick" : "赵洋",
+    "id" : 25019103,
+    "phone" : "13581873348",
+    "remark" : "",
+    "type" : 2,
+    "name" : "赵洋",
+    "im_login" : "2f9cf6bbfe2708d910636e0afab9a626035f3430"
+  },
+  {
+    "avatar" : "Uploads\/2017\/03\/01\/58b67036b7c7f.jpeg",
+    "position" : "组长",
+    "nick" : "总有刁民要害朕",
+    "id" : 25036657,
+    "phone" : "13621122631",
+    "remark" : "",
+    "type" : 2,
+    "name" : "刘彦成",
+    "im_login" : "27f6f88c422f443f9d73daf7a0a31e62428f2a41"
+  },
+  {
+    "avatar" : "Uploads\/2015\/07\/16\/55a71b10beff3.jpeg",
+    "position" : "",
+    "nick" : "不写用户名能咋",
+    "id" : 25022577,
+    "phone" : "13370111825",
+    "remark" : "",
+    "type" : 2,
+    "name" : "杜建军",
+    "im_login" : "1143338d88d1fea995d42b1e5234e8713ff80e51"
+  },
+  {
+    "avatar" : "Uploads\/2016\/10\/26\/58107a25305cc.jpeg",
+    "position" : "",
+    "nick" : "and。",
+    "id" : 902254542,
+    "phone" : "18727616479",
+    "remark" : "",
+    "type" : 2,
+    "name" : "陶建",
+    "im_login" : "f88f897200b9896c843c0d120596b350a216afc0"
+  },
+  {
+    "avatar" : "Uploads\/2015\/07\/13\/55a3623641914.jpg",
+    "position" : "",
+    "nick" : "包子",
+    "id" : 25013772,
+    "phone" : "15811416864",
+    "remark" : "",
+    "type" : 2,
+    "name" : "刘亚男",
+    "im_login" : "0203e74c41cbdece2297eb0ac21cf04cac7ce95d"
+  }
+]
