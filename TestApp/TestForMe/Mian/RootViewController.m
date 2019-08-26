@@ -36,7 +36,7 @@
 - (void)setUpData
 {
     _titsArray = @[@"C language",@"Data Storage",@"Test",@"Memory Management",@"Algorithm 排序",@"RunTime",@"Performance 优化",@"Multithreading线程",@"block",@"cache",@"Timer",@"自定义Cell",@"数据库"].mutableCopy;
-    _vcsArray =@[@"AboutCViewController",@"SaveDataViewController",@"CALyerAndUIViewViewController",@"NCViewController",@"SFViewController",@"",@"YHViewController",@"DXCViewController",@"block2ViewController",@"CacheTableViewController",@"TableViewController",@"NewViewController",@"DBViewController"].mutableCopy;
+    _vcsArray =@[@"AboutCViewController",@"SaveDataViewController",@"TESTViewController",@"NCViewController",@"SFViewController",@"",@"YHViewController",@"DXCViewController",@"block2ViewController",@"CacheTableViewController",@"TableViewController",@"NewViewController",@"DBViewController"].mutableCopy;
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

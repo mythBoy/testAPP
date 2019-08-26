@@ -89,7 +89,7 @@
 }
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    
+
     return self.baseDataArray.count;
 }
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -124,7 +124,7 @@
 }
 - (void)dealloc
 {
-    NSLog(@"dealloc---%@",NSStringFromClass(self.class));
+    NSLog(@"----'%@'--释放了<Base打印>",NSStringFromClass(self.class));
     
 }
 @end

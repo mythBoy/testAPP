@@ -53,11 +53,11 @@ typedef struct objc_object_ *id_;
 }
 - (void)kaka
 {
-        Class_ cc;
-        cc->isa;
-       (*cc).super_class;
-       Class kk;
-        kk->isa;
+//        Class_ cc;
+//        cc->isa;
+//       (*cc).super_class;
+//       Class kk;
+//        kk->isa;
     
 
    

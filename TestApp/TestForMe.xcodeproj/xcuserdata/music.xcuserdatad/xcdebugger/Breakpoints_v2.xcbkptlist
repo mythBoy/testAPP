@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestForMe/Mian/RootViewController.m"
-            timestampString = "544960682.906011"
+            timestampString = "588505050.09965"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "61"
@@ -84,13 +84,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TestForMe/Cell&#x6761;&#x5217;/&#x5173;&#x4e8e;c&#x8bed;&#x8a00;/AboutCViewController.m"
-            timestampString = "547728378.272922"
+            timestampString = "588505050.099854"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
-            landmarkName = "-dealloc"
-            landmarkType = "7">
+            startingLineNumber = "69"
+            endingLineNumber = "69">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy

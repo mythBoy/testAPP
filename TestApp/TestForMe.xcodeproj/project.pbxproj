@@ -170,6 +170,9 @@
 		E25D4D1F207B6F88006826A4 /* UIView+Category.m in Sources */ = {isa = PBXBuildFile; fileRef = E25D4D1D207B6F88006826A4 /* UIView+Category.m */; };
 		E25EE7E5207C965600A9E8F6 /* myString.m in Sources */ = {isa = PBXBuildFile; fileRef = E25EE7E4207C965600A9E8F6 /* myString.m */; };
 		E25EE7E8207CA06600A9E8F6 /* blockView.m in Sources */ = {isa = PBXBuildFile; fileRef = E25EE7E7207CA06600A9E8F6 /* blockView.m */; };
+		E26AFD392313CD620025F17D /* TESTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E26AFD382313CD620025F17D /* TESTViewController.m */; };
+		E26AFD3C2313CEC90025F17D /* CircleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E26AFD3B2313CEC90025F17D /* CircleViewController.m */; };
+		E26AFD442313DEC50025F17D /* NSTimer+myTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = E26AFD432313DEC50025F17D /* NSTimer+myTimer.m */; };
 		E26B6DC8200DA59000A4CA59 /* TTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = E26B6DC7200DA59000A4CA59 /* TTableView.m */; };
 		E26B6DCB200DD53100A4CA59 /* TSubYHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E26B6DCA200DD53100A4CA59 /* TSubYHViewController.m */; };
 		E26F4103205F538800D07C83 /* bbbbViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E26F4102205F538800D07C83 /* bbbbViewController.m */; };
@@ -526,6 +529,12 @@
 		E25EE7E4207C965600A9E8F6 /* myString.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myString.m; sourceTree = "<group>"; };
 		E25EE7E6207CA06600A9E8F6 /* blockView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = blockView.h; sourceTree = "<group>"; };
 		E25EE7E7207CA06600A9E8F6 /* blockView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = blockView.m; sourceTree = "<group>"; };
+		E26AFD372313CD620025F17D /* TESTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TESTViewController.h; sourceTree = "<group>"; };
+		E26AFD382313CD620025F17D /* TESTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TESTViewController.m; sourceTree = "<group>"; };
+		E26AFD3A2313CEC90025F17D /* CircleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleViewController.h; sourceTree = "<group>"; };
+		E26AFD3B2313CEC90025F17D /* CircleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleViewController.m; sourceTree = "<group>"; };
+		E26AFD422313DEC50025F17D /* NSTimer+myTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSTimer+myTimer.h"; sourceTree = "<group>"; };
+		E26AFD432313DEC50025F17D /* NSTimer+myTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+myTimer.m"; sourceTree = "<group>"; };
 		E26B6DC6200DA59000A4CA59 /* TTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TTableView.h; sourceTree = "<group>"; };
 		E26B6DC7200DA59000A4CA59 /* TTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TTableView.m; sourceTree = "<group>"; };
 		E26B6DC9200DD53100A4CA59 /* TSubYHViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TSubYHViewController.h; sourceTree = "<group>"; };
@@ -720,20 +729,11 @@
 		7649EFAD1E8A534C001CFEEF /* Test */ = {
 			isa = PBXGroup;
 			children = (
-				E299F2372074C9EB007A8936 /* CALyerAndUIViewViewController.h */,
-				E299F2382074C9EB007A8936 /* CALyerAndUIViewViewController.m */,
-				E2C825892079BA5F002659FF /* CALyerAndUIViewView.h */,
-				E2C8258A2079BA5F002659FF /* CALyerAndUIViewView.m */,
-				E2C8258C2079C119002659FF /* CALyerAndUIViewLayer.h */,
-				E2C8258D2079C119002659FF /* CALyerAndUIViewLayer.m */,
-				7649EFAE1E8A5373001CFEEF /* LKViewController.h */,
-				7649EFAF1E8A5373001CFEEF /* LKViewController.m */,
-				E25D4A89206B741400CECAC1 /* LKView.h */,
-				E25D4A8A206B741400CECAC1 /* LKView.m */,
-				7649EFB01E8A5373001CFEEF /* mask.jpg */,
-				7649EFB11E8A5373001CFEEF /* spark.png */,
-				7649EFB21E8A5373001CFEEF /* title.png */,
-				7649EFB31E8A5373001CFEEF /* titleBack.png */,
+				E26AFD412313D8AF0025F17D /* category */,
+				E26AFD402313D07E0025F17D /* other */,
+				E26AFD3F2313D0690025F17D /* model */,
+				E26AFD3E2313D0630025F17D /* view */,
+				E26AFD3D2313D0520025F17D /* controller */,
 			);
 			path = Test;
 			sourceTree = "<group>";
@@ -1297,6 +1297,61 @@
 			path = "Cell条列";
 			sourceTree = "<group>";
 		};
+		E26AFD3D2313D0520025F17D /* controller */ = {
+			isa = PBXGroup;
+			children = (
+				E299F2372074C9EB007A8936 /* CALyerAndUIViewViewController.h */,
+				E299F2382074C9EB007A8936 /* CALyerAndUIViewViewController.m */,
+				E2C825892079BA5F002659FF /* CALyerAndUIViewView.h */,
+				E2C8258A2079BA5F002659FF /* CALyerAndUIViewView.m */,
+				E2C8258C2079C119002659FF /* CALyerAndUIViewLayer.h */,
+				E2C8258D2079C119002659FF /* CALyerAndUIViewLayer.m */,
+				7649EFAE1E8A5373001CFEEF /* LKViewController.h */,
+				7649EFAF1E8A5373001CFEEF /* LKViewController.m */,
+				E26AFD372313CD620025F17D /* TESTViewController.h */,
+				E26AFD382313CD620025F17D /* TESTViewController.m */,
+				E26AFD3A2313CEC90025F17D /* CircleViewController.h */,
+				E26AFD3B2313CEC90025F17D /* CircleViewController.m */,
+			);
+			path = controller;
+			sourceTree = "<group>";
+		};
+		E26AFD3E2313D0630025F17D /* view */ = {
+			isa = PBXGroup;
+			children = (
+				E25D4A89206B741400CECAC1 /* LKView.h */,
+				E25D4A8A206B741400CECAC1 /* LKView.m */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		E26AFD3F2313D0690025F17D /* model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		E26AFD402313D07E0025F17D /* other */ = {
+			isa = PBXGroup;
+			children = (
+				7649EFB01E8A5373001CFEEF /* mask.jpg */,
+				7649EFB11E8A5373001CFEEF /* spark.png */,
+				7649EFB21E8A5373001CFEEF /* title.png */,
+				7649EFB31E8A5373001CFEEF /* titleBack.png */,
+			);
+			path = other;
+			sourceTree = "<group>";
+		};
+		E26AFD412313D8AF0025F17D /* category */ = {
+			isa = PBXGroup;
+			children = (
+				E26AFD422313DEC50025F17D /* NSTimer+myTimer.h */,
+				E26AFD432313DEC50025F17D /* NSTimer+myTimer.m */,
+			);
+			path = category;
+			sourceTree = "<group>";
+		};
 		E26FACA92056226400E624F2 /* Old Cell */ = {
 			isa = PBXGroup;
 			children = (
@@ -1438,6 +1493,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1577,7 +1633,9 @@
 				765E6E651EA5FF6200302971 /* Person.m in Sources */,
 				E20B62682018655000552B64 /* QMFileCollectionCell.m in Sources */,
 				E20B62852018655000552B64 /* TCMessageManagerFaceView.m in Sources */,
+				E26AFD392313CD620025F17D /* TESTViewController.m in Sources */,
 				E24F1B6F1F2097A000DC16C3 /* NSObject+Category.m in Sources */,
+				E26AFD3C2313CEC90025F17D /* CircleViewController.m in Sources */,
 				E20B62792018655000552B64 /* QMAudioPlayer.m in Sources */,
 				7670D4F11F18A84500726650 /* Category.m in Sources */,
 				765E6E5B1EA5FE4F00302971 /* AboutCViewController.m in Sources */,
@@ -1637,6 +1695,7 @@
 				E20B62562018655000552B64 /* TZImagePickerController.m in Sources */,
 				E20B627A2018655000552B64 /* QMAudioRecorder.m in Sources */,
 				E20B625F2018655000552B64 /* SJVoiceTransform.m in Sources */,
+				E26AFD442313DEC50025F17D /* NSTimer+myTimer.m in Sources */,
 				E20B62572018655000552B64 /* TZLocationManager.m in Sources */,
 				E26F4103205F538800D07C83 /* bbbbViewController.m in Sources */,
 				E20B62402018655000552B64 /* NSData+ImageContentType.m in Sources */,

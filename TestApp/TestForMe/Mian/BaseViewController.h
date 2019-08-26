@@ -11,7 +11,8 @@
 @interface BaseViewController : UIViewController
 @property (nonatomic ,strong)UITableView *baseTableView;
 @property (nonatomic ,assign)BOOL showTableView;
-@property (nonatomic ,strong)NSArray *baseDataArray;
+@property (nonatomic ,strong)NSArray <NSString *> *baseDataArray;
 //@property (nonatomic ,copy)NSString *cusTitle;
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath;
 
 @end
